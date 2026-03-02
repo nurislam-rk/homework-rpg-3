@@ -33,3 +33,4 @@ public class EncounterResult {
         return Collections.unmodifiableList(battleLog);
     }
 }
+
