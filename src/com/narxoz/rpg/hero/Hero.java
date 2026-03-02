@@ -6,3 +6,4 @@ public interface Hero {
     void receiveDamage(int amount);
     boolean isAlive();
 }
+
