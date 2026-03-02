@@ -5,3 +5,4 @@ public class Goblin extends BasicEnemy {
         super("Goblin", 12, 60);
     }
 }
+
