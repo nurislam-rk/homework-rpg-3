@@ -6,3 +6,4 @@ public interface Enemy {
     void applyDamage(int amount);
     boolean isDefeated();
 }
+
